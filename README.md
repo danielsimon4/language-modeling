@@ -1,7 +1,7 @@
 # language-modeling
 **Language modeling notes from Andrej Karpathy videos**
 
-While watching Andrej Karpathy's great [list of videos on language modeling](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=P6YmUo5Wn5A_95cj) I created the following notes. I simply wrote down his incredible explanations and added some explanatory notes. Please refer to his videos while reading this notebooks.
+I took the following notes from Andrej Karpathy's great [list of videos on language modeling](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=P6YmUo5Wn5A_95cj). Please refer to his videos while reading this notebooks.
 
 Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), a **character-level language model** that takes one text file as input and generates more things, with the educational purpose of teaching a wide choice of language models from Bigrams to Transformers. Please note that the modeling approaches at the character level (predicting a character using the previous characters) are similar at the word level (predicting a word using the previous words).
 
