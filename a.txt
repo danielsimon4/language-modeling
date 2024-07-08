@@ -1,0 +1,1 @@
+predict the next character or tokes in a sequence word level (same modeling approach)
