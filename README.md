@@ -10,8 +10,8 @@ Please note that the modeling approaches at the character level (predicting a ch
 ## Content:
 
 1. Bigram models
-    - Notes: [Bigrams (1)]()
+    - Notes: [Bigrams (1)](https://github.com/danielsimon4/language-modeling/blob/main/Bigrams%20(1).ipynb)
     - Video: [The spelled-out intro to language modeling: building makemore](https://www.youtube.com/watch?v=PaCmpygFfXo&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=2)
 2. MLP model 
-    - Notes: [MLP (2)]()
+    - Notes: [MLP (2)](https://github.com/danielsimon4/language-modeling/blob/main/MLP%20(2).ipynb)
     - Video: [Building makemore Part 2: MLP](https://www.youtube.com/watch?v=TCH_1BHY58I&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=3)
