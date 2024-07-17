@@ -18,7 +18,9 @@ Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), a **ch
     - Notebook: [ActivationsAndGradients](https://github.com/danielsimon4/language-modeling/blob/main/ActivationsAndGradients.ipynb)
     - Video: [Karpathy, Andrej. (2022). YouTube. *Building makemore Part 3: Activations & Gradients, BatchNorm*](https://www.youtube.com/watch?v=P6sfmUTpUmc&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5)
     - Reference:
-3. **Activations and Gradients**
+        - [He et al. (2015). *Delving Deep into Rectifiers*](https://arxiv.org/pdf/1502.01852)
+        - [Ioffe and Szegedy. (2015). *Batch normalization*](https://arxiv.org/pdf/1502.03167)
+4. **Backpropagation**
     - Notebook: [Backpropagation](https://github.com/danielsimon4/language-modeling/blob/main/Backpropagation.ipynb)
     - Video: [Karpathy, Andrej. (2022). YouTube. *Building makemore Part 4: Becoming a Backprop Ninja*](https://www.youtube.com/watch?v=q8SA3rM6ckI&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5)
     - Reference:
