@@ -23,4 +23,6 @@ Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), a **ch
 4. **Backpropagation**
     - Notebook: [Backpropagation](https://github.com/danielsimon4/language-modeling/blob/main/Backpropagation.ipynb)
     - Video: [Karpathy, Andrej. (2022). YouTube. *Building makemore Part 4: Becoming a Backprop Ninja*](https://www.youtube.com/watch?v=q8SA3rM6ckI&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5)
-    - Reference:
+5. **WaveNet**
+    - Notebook: [WaveNet](https://github.com/danielsimon4/language-modeling/blob/main/WaveNet.ipynb)
+    - Video: [Karpathy, Andrej. (2022). YouTube. *Building makemore Part 5: Building a WaveNet*](https://www.youtube.com/watch?v=t3YJ5hKiMQ0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=6)
