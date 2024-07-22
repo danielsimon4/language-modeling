@@ -26,3 +26,4 @@ Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), a **ch
 5. **WaveNet**
     - Notebook: [WaveNet](https://github.com/danielsimon4/language-modeling/blob/main/WaveNet.ipynb)
     - Video: [Karpathy, Andrej. (2022). YouTube. *Building makemore Part 5: Building a WaveNet*](https://www.youtube.com/watch?v=t3YJ5hKiMQ0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=6)
+    - Reference: [DeepMind. (2016). *WaveNet: A generative model for raw audio*](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
