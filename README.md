@@ -34,4 +34,4 @@ Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), an aut
 
 ## NanoGPT:
 
-Andrej Karpathy also created [NanoGPT](https://github.com/karpathy/nanoGPT?tab=readme-ov-file), a repository for training/finetuning medium-sized GPTs. In his videos, he teaches how to build a **Generatively Pretrained Transformer (GPT)**. We will train the transformer on a [Shakespere text dataset](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) and genearte Shakespire like text.
+Andrej Karpathy also created [NanoGPT](https://github.com/karpathy/nanoGPT?tab=readme-ov-file), a repository for training/finetuning medium-sized GPTs. In his videos, he teaches how to build a **Generatively Pretrained Transformer (GPT)**. We will train the transformer on a [Shakespere text](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) dataset and genearte Shakespire like text.
