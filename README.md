@@ -3,11 +3,9 @@
 
 I took the following notes from Andrej Karpathy's great [list of videos on language modeling](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=P6YmUo5Wn5A_95cj). Please refer to his videos while reading these notebooks.
 
-Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), a **character-level language model** that takes one text file as input and generates more things, with the educational purpose of teaching a wide choice of language models.
-
-## Content:
-
 ### Makemore:
+
+Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), a **character-level language model** that takes one text file as input, and generates more things like it. We will feed it with a database of names, [names.txt](https://github.com/danielsimon4/language-modeling/blob/main/names.txt), and makemore will generate cool baby name ideas.
 
 1. **Bigram models**
     - Notebook: [Bigram](https://github.com/danielsimon4/language-modeling/blob/main/Bigram.ipynb)
@@ -29,3 +27,5 @@ Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), a **ch
     - Notebook: [WaveNet](https://github.com/danielsimon4/language-modeling/blob/main/WaveNet.ipynb)
     - Video: [Karpathy, Andrej. (2022). YouTube. *Building makemore Part 5: Building a WaveNet*](https://www.youtube.com/watch?v=t3YJ5hKiMQ0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=6)
     - Reference: [DeepMind. (2016). *WaveNet: A generative model for raw audio*](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+
+### Nano
