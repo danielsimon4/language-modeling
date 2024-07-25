@@ -1,7 +1,7 @@
 # language-modeling
 ### Language modeling notes from Andrej Karpathy videos
 
-I took the following notes from Andrej Karpathy's great [list of videos on language modeling](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=P6YmUo5Wn5A_95cj). **Please refer to his videos while reading these notebooks.**
+I took the following notes from Andrej Karpathy's great video lecture series [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html). **Please refer to his video lectures while reading these notebooks.**
 
 <br>
 
@@ -33,3 +33,5 @@ Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), an aut
 <br>
 
 ## NanoGPT:
+
+Andrej Karpathy also created [NanoGPT](https://github.com/karpathy/nanoGPT?tab=readme-ov-file), a repository for training/finetuning medium-sized GPTs. In his videos, he teaches how to build a **Generatively Pretrained Transformer (GPT)**. We will train the transformer on a [Shakespere text dataset](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) and genearte Shakespire like text.
