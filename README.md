@@ -1,11 +1,13 @@
 # language-modeling
 **Language modeling notes from Andrej Karpathy videos**
 
-I took the following notes from Andrej Karpathy's great [list of videos on language modeling](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=P6YmUo5Wn5A_95cj). Please refer to his videos while reading these notebooks.
+I took the following notes from Andrej Karpathy's great [list of videos on language modeling](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=P6YmUo5Wn5A_95cj). **Please refer to his videos while reading these notebooks.**
+
+<br>
 
 ### Makemore:
 
-Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), a **character-level language model** that takes one text file as input, and generates more things like it. We will feed it with a database of names, [names.txt](https://github.com/danielsimon4/language-modeling/blob/main/names.txt), and makemore will generate cool baby name ideas.
+Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), an autoregressive **character-level language model** that takes one text file as input, and generates more things like it. We will feed it with a dataset (from [ssa.gov](https://www.ssa.gov/oact/babynames/)) with the most common 32K names, [names.txt](https://github.com/danielsimon4/language-modeling/blob/main/names.txt), and Makemore will generate baby name ideas.
 
 1. **Bigram models**
     - Notebook: [Bigram](https://github.com/danielsimon4/language-modeling/blob/main/Bigram.ipynb)
