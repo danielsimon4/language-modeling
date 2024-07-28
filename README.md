@@ -34,4 +34,13 @@ Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), an aut
 
 ## NanoGPT:
 
-Andrej Karpathy also created [NanoGPT](https://github.com/karpathy/nanoGPT?tab=readme-ov-file), a repository for training/finetuning medium-sized GPTs. In his videos, he teaches how to build a **Generatively Pretrained Transformer (GPT)**. We will train the transformer on a [Shakespeare text](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) dataset and genearte Shakespeare like text.
+Andrej Karpathy also created [NanoGPT](https://github.com/karpathy/nanoGPT?tab=readme-ov-file), a repository for training/finetuning medium-sized GPTs. In his videos, he teaches how to build a **Generatively Pretrained Transformer (GPT)**. We will train the transformer on a [Shakespeare text](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) dataset with 1M characters and genearte Shakespeare like text.
+
+1. **GPT**
+    - Notebook: [GPT](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.ipynb)
+    - Video: [Karpathy, Andrej. (2023). YouTube. *Let's build GPT: from scratch, in code, spelled out.*](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2514s)
+    - Reference:
+        - [He et al. (2015). *Deep Residual Learning for Image Recognition*](https://arxiv.org/abs/1512.03385)
+        - [Ba et al. (2016). *Layer Normalization*](https://arxiv.org/abs/1607.06450)
+        - [Vaswani et al. (2017). *Attention is All You Need paper*](https://arxiv.org/abs/1706.03762)
+        - [Srivastava et al. (2014). *Dropout: A Simple Way to Prevent Neural Networks from Overfitting*](https://jmlr.org/papers/v15/srivastava14a.html)
