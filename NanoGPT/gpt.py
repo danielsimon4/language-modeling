@@ -199,7 +199,7 @@ class GPTLanguageModel(nn.Module):
 
         B, T = idx.shape
 
-        # identity and positional embeddings from lookup tables
+        # token and position embeddings from embedding tables
         tok_emb = self.token_embedding_table(idx) # (B, T, n_embd)
         pos_emb = self.position_embedding_table(torch.arange(T, device=device)) # (T, n_embd)
         x = tok_emb + pos_emb # (B, T, n_embd)
