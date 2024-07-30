@@ -20,15 +20,15 @@ Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), an aut
     - Notebook: [ActivationsAndGradients](https://github.com/danielsimon4/language-modeling/blob/main/Makemore/ActivationsAndGradients.ipynb)
     - Video: [Karpathy, Andrej. (2022). YouTube. *Building makemore Part 3: Activations & Gradients, BatchNorm*](https://www.youtube.com/watch?v=P6sfmUTpUmc&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5)
     - Reference:
-        - [He et al. (2015). *Delving Deep into Rectifiers*](https://arxiv.org/pdf/1502.01852)
-        - [Ioffe and Szegedy. (2015). *Batch normalization*](https://arxiv.org/pdf/1502.03167)
+        - [He et al. (2015). *Delving Deep into Rectifiers*](https://arxiv.org/abs/1502.01852)
+        - [Ioffe and Szegedy. (2015). *Batch normalization*](https://arxiv.org/abs/1502.03167)
 4. **Backpropagation**
     - Notebook: [Backpropagation](https://github.com/danielsimon4/language-modeling/blob/main/Makemore/Backpropagation.ipynb)
     - Video: [Karpathy, Andrej. (2022). YouTube. *Building makemore Part 4: Becoming a Backprop Ninja*](https://www.youtube.com/watch?v=q8SA3rM6ckI&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5)
 5. **WaveNet**
     - Notebook: [WaveNet](https://github.com/danielsimon4/language-modeling/blob/main/Makemore/WaveNet.ipynb)
     - Video: [Karpathy, Andrej. (2022). YouTube. *Building makemore Part 5: Building a WaveNet*](https://www.youtube.com/watch?v=t3YJ5hKiMQ0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=6)
-    - Reference: [DeepMind. (2016). *WaveNet: A generative model for raw audio*](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
+    - Reference: [DeepMind. (2016). *WaveNet: A generative model for raw audio*](https://arxiv.org/abs/1609.03499)
 
 <br>
 
