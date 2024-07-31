@@ -38,6 +38,7 @@ Andrej Karpathy also created [NanoGPT](https://github.com/karpathy/nanoGPT?tab=r
 
 1. **GPT**
     - Notebook: [GPT](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.ipynb)
+    - Code: [GPT](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.py)
     - Video: [Karpathy, Andrej. (2023). YouTube. *Let's build GPT: from scratch, in code, spelled out.*](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2514s)
     - Reference:
         - [He et al. (2015). *Deep Residual Learning for Image Recognition*](https://arxiv.org/abs/1512.03385)
