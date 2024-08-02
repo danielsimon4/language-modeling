@@ -18,7 +18,7 @@ Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), an aut
     - Reference: [Bengio et al. (2003). *A neural probabilistic language model*](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 3. **Activations and Gradients**
     - Notebook: [ActivationsAndGradients](https://github.com/danielsimon4/language-modeling/blob/main/Makemore/ActivationsAndGradients.ipynb)
-    - Video: [Karpathy, Andrej. (2022). YouTube. *Building makemore Part 3: Activations & Gradients, BatchNorm*](https://www.youtube.com/watch?v=P6sfmUTpUmc&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5)
+    - Video: [Karpathy, Andrej. (2022). YouTube. *Building makemore Part 3: Activations & Gradients, BatchNorm*](https://www.youtube.com/watch?v=P6sfmUTpUmc&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=4)
     - Reference:
         - [He et al. (2015). *Delving Deep into Rectifiers*](https://arxiv.org/abs/1502.01852)
         - [Ioffe and Szegedy. (2015). *Batch normalization*](https://arxiv.org/abs/1502.03167)
@@ -39,9 +39,13 @@ Andrej Karpathy also created [NanoGPT](https://github.com/karpathy/nanoGPT?tab=r
 1. **GPT**
     - Notebook: [GPT](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.ipynb)
     - Code: [GPT](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.py)
-    - Video: [Karpathy, Andrej. (2023). YouTube. *Let's build GPT: from scratch, in code, spelled out.*](https://www.youtube.com/watch?v=kCc8FmEb1nY&t=2514s)
+    - Video: [Karpathy, Andrej. (2023). YouTube. *Let's build GPT: from scratch, in code, spelled out.*](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7)
     - Reference:
         - [He et al. (2015). *Deep Residual Learning for Image Recognition*](https://arxiv.org/abs/1512.03385)
         - [Ba et al. (2016). *Layer Normalization*](https://arxiv.org/abs/1607.06450)
         - [Vaswani et al. (2017). *Attention is All You Need paper*](https://arxiv.org/abs/1706.03762)
         - [Srivastava et al. (2014). *Dropout: A Simple Way to Prevent Neural Networks from Overfitting*](https://jmlr.org/papers/v15/srivastava14a.html)
+2. **Tokenizer**
+    - Notebook: [Tokenizer](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/Tokenizer.ipynb)
+    - Video: [Karpathy, Andrej. (2024). YouTube. *Let's build the GPT Tokenizer.*](https://www.youtube.com/watch?v=zduSFxRajkE&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=9)
+    - Reference:
