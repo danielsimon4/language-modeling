@@ -6,7 +6,7 @@ I took the following notes from Andrej Karpathy's great video lecture series [Ne
 
 <br>
 
-## Makemore:
+## Neural Networks:
 
 Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), an autoregressive **character-level language model** that takes a text file with words as input, and generates more words like it. In his videos, he teaches how to build it using Bigram, MLP, and WaveNet architectures. We will train Makemore with the [names](https://github.com/danielsimon4/language-modeling/blob/main/Makemore/names.txt) dataset from [ssa.gov](https://www.ssa.gov/oact/babynames/), that contains the most common 32K names for the year 2018, and Makemore will generate more names.
 
@@ -33,7 +33,7 @@ Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), an aut
 
 <br>
 
-## NanoGPT:
+## GPTs:
 
 Andrej Karpathy also created [NanoGPT](https://github.com/karpathy/nanoGPT?tab=readme-ov-file), a repository for training/finetuning medium-sized GPTs. In his videos, he teaches how to build a **Generatively Pretrained Transformer (GPT)**. We will train the transformer on a [Shakespeare text](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) dataset with 1M characters and genearte Shakespeare like text.
 
