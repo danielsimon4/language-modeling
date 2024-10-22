@@ -1,10 +1,43 @@
-# language-modeling
+# Neural Networks & Transformers: A Deep Dive into Language Modeling
 
-I took the following notes from Andrej Karpathy's great video lecture series [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html). 
+This [**online book**]() is inspired by Andrej Karpathy's great video lecture series, [***Neural Networks: Zero To Hero***](https://karpathy.ai/zero-to-hero.html). As I followed along with the series, I took comprehensive notes and, at times, simplified the code to make it more approachable. I have also added explanations before every piece of code to clarify key concepts and to ensure the material is accessible to readers with all levels of expertise.
 
-**Please refer to his video lectures while reading these notebooks.**
+In addition to the concepts covered in the videos, this book includes topics and even chapters on areas not discussed in the series, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), providing a broader foundation in neural network architectures.
+
+By the end of this book, you will be familiar with core concepts in neural networks, ranging from training simple models to implementing advanced architectures. Whether you are a beginner looking to get started or someone seeking deeper insights, I hope this resource aids you on your journey through the fascinating world of deep learning.
 
 <br>
+
+## Contents:
+
+**Chapter 1: Introduction to Neural Networks**
+- 1.1 
+
+**Chapter 2: Bigram models**
+
+**Chapter 3: MLP model**
+
+**Chapter 4: Activations and Gradients**
+
+**Chapter 5: Backpropagation**
+
+**Chapter 6: WaveNet**
+
+[Chapter 7: Generatively Pretrained Transformers (GPTs)](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.ipynb)
+- [7.1 Transformers](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.ipynb#71-transformers)
+- 7.2 Load dataset
+- [7.3 Vocabulary size](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.ipynb#73-vocabulary-size)
+- 7.4 Tokenizer
+- 7.5 Build dataset
+- 7.6 Chunk, block size, and context
+- 7.8 CUDA
+
+**Chapter 8: GPT-2**
+
+
+
+
+
 
 ## Neural Networks:
 
@@ -33,9 +66,9 @@ Andrej Karpathy created [Makemore](https://github.com/karpathy/makemore), an aut
 
 <br>
 
-## GPTs:
+## Transformers:
 
-Andrej Karpathy also created [NanoGPT](https://github.com/karpathy/nanoGPT?tab=readme-ov-file), a repository for training/finetuning medium-sized GPTs. In his videos, he teaches how to build a **Generatively Pretrained Transformer (GPT)**. We will train the transformer on a [Shakespeare text](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) dataset with 1M characters and genearte Shakespeare like text.
+In his videos, Andrej Karpathy also teaches how to build a **Generatively Pretrained Transformer (GPT)** and how to replicate GPT-2. We are going to   
 
 1. **GPT**
     - Notebook: [GPT](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.ipynb)
@@ -46,11 +79,7 @@ Andrej Karpathy also created [NanoGPT](https://github.com/karpathy/nanoGPT?tab=r
         - [Ba et al. (2016). *Layer Normalization*](https://arxiv.org/abs/1607.06450)
         - [He et al. (2015). *Deep Residual Learning for Image Recognition*](https://arxiv.org/abs/1512.03385)
         - [Srivastava et al. (2014). *Dropout: A Simple Way to Prevent Neural Networks from Overfitting*](https://jmlr.org/papers/v15/srivastava14a.html)
-2. **Tokenizer**
-    - Notebook: [Tokenizer](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/Tokenizer.ipynb)
-    - Video: [Karpathy, A. (2024). *Let's build the GPT Tokenizer*](https://www.youtube.com/watch?v=zduSFxRajkE&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=9)
-    - Reference:
-3. **GPT-2**
+2. **GPT-2**
     - Notebook: [GPT2](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT2.ipynb)
     - Code: [GPT2](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT2.py)
     - Video: [Karpathy, A. (2023). *Let's reproduce GPT-2 (124M)*](https://www.youtube.com/watch?v=l8pRSuU81PU&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=10)
