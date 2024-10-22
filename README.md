@@ -13,7 +13,8 @@ By the end of this book, you will be familiar with core concepts in neural netwo
 **Chapter 1: Introduction to Neural Networks**
 - 1.1 
 
-**Chapter 2: Bigram models**
+**Chapter 2: Bigram Models**
+- 2.1 Load and explore dataset
 
 **Chapter 3: MLP model**
 
@@ -23,14 +24,19 @@ By the end of this book, you will be familiar with core concepts in neural netwo
 
 **Chapter 6: WaveNet**
 
-[Chapter 7: Generatively Pretrained Transformers (GPTs)](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.ipynb)
-- [7.1 Transformers](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.ipynb#71-transformers)
+[**Chapter 7: Generatively Pretrained Transformers (GPTs)**](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.ipynb)
+- 7.1 Transformers
 - 7.2 Load dataset
-- [7.3 Vocabulary size](https://github.com/danielsimon4/language-modeling/blob/main/NanoGPT/GPT.ipynb#73-vocabulary-size)
+- 7.3 Vocabulary size
 - 7.4 Tokenizer
 - 7.5 Build dataset
 - 7.6 Chunk, block size, and context
 - 7.8 CUDA
+- 7.9 Batch dimension
+- 7.10 Calculate loss function
+- 7.11 Generate tokens function
+- 7.12 Bigram model
+- 7.13 Evaluate the model
 
 **Chapter 8: GPT-2**
 
