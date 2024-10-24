@@ -1,10 +1,12 @@
 # Neural Networks & Transformers: A Deep Dive into Language Modeling
 
-This [**online book**]() is inspired by Andrej Karpathy's great video lecture series, [***Neural Networks: Zero To Hero***](https://karpathy.ai/zero-to-hero.html). As I followed along with the series, I took comprehensive notes and, at times, simplified the code to make it more approachable. I have also added explanations before every piece of code to clarify key concepts and to ensure the material is accessible to readers with all levels of expertise.
+<br>
 
-In addition to the concepts covered in the videos, this book includes topics and even chapters on areas not discussed in the series, such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), providing a broader foundation in neural network architectures.
+This [**online book**]() is inspired by Andrej Karpathy's excellent video lecture series, [***Neural Networks: Zero To Hero***](https://karpathy.ai/zero-to-hero.html). As I followed along with the series, I took detailed notes and simplified the code to make it more approachable. I have also added clear explanations before every code segment to clarify key concepts and make the material accessible for anyone with a very basic understanding of Python.
 
-By the end of this book, you will be familiar with core concepts in neural networks, ranging from training simple models to implementing advanced architectures. Whether you are a beginner looking to get started or someone seeking deeper insights, I hope this resource aids you on your journey through the fascinating world of deep learning.
+In addition to the topics covered in Karpathy's lectures, this book expands on areas not addressed in the series, including an introduction to neural networks, Convolutional Neural Networks (CNNs), or Recurrent Neural Networks (RNNs), providing a broader foundation in neural network architectures. Please also be aware that some concepts from the lectures are explored in greater depth or organized differently in the book, in case you are following along with the videos.
+
+By the end of this book, you will be familiar with core concepts in neural networks, ranging from training simple models to implementing advanced architectures. Whether you are a beginner looking to get started or someone seeking deeper insights, I hope this resource supports your journey through the fascinating world of deep learning.
 
 <br>
 
@@ -13,8 +15,11 @@ By the end of this book, you will be familiar with core concepts in neural netwo
 **Chapter 1: Introduction to Neural Networks**
 - 1.1 
 
-**Chapter 2: Bigram Models**
-- 2.1 Load and explore dataset
+**Chapter 2: Bigram Model**
+- 2.1 Python Data Types
+- 2.2 Load and Explore a Text File
+- 2.3 Mapping
+- 2.4 Counts matrix
 
 **Chapter 3: MLP model**
 
