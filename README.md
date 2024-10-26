@@ -2,7 +2,7 @@
 
 <br>
 
-This [**online book**]() is inspired by Andrej Karpathy's excellent video lecture series, [***Neural Networks: Zero To Hero***](https://karpathy.ai/zero-to-hero.html). As I followed along with the series, I took detailed notes and simplified the code to make it more approachable. I have also added clear explanations before every code segment to clarify key concepts and make the material accessible for anyone with a very basic understanding of Python.
+This [**online book**]() is inspired by Andrej Karpathy's excellent video lecture series, [***Neural Networks: Zero To Hero***](https://karpathy.ai/zero-to-hero.html). As I followed along with the series, I took detailed notes and simplified the code to make it more approachable. I have also added clear explanations before each code segment to clarify key concepts and make the material accessible to anyone with very basic knowledge of Python and mathematics.
 
 In addition to the topics covered in Karpathy's lectures, this book expands on areas not addressed in the series, including an introduction to neural networks, Convolutional Neural Networks (CNNs), or Recurrent Neural Networks (RNNs), providing a broader foundation in neural network architectures. Please also be aware that some concepts from the lectures are explored in greater depth or organized differently in the book, in case you are following along with the videos.
 
@@ -15,11 +15,18 @@ By the end of this book, you will be familiar with core concepts in neural netwo
 **Chapter 1: Introduction to Neural Networks**
 - 1.1 
 
-**Chapter 2: Bigram Model**
+[**Chapter 2: Bigram Model**](https://github.com/danielsimon4/language-modeling/blob/main/Ch2.ipynb)
 - 2.1 Python Data Types
 - 2.2 Load and Explore a Text File
 - 2.3 Mapping
 - 2.4 Counts matrix
+- 2.5 Probability Matrix
+- 2.6 Sample From a Probability Distribution
+- 2.7 Average Negative Log Likelihood
+- 2.8 Training Set
+- 2.9 One-hot Encoding
+- 2.10 Hidden Layer
+- 2.11 Softmax
 
 **Chapter 3: MLP model**
 
@@ -47,8 +54,9 @@ By the end of this book, you will be familiar with core concepts in neural netwo
 
 
 
-
-
+<br>
+<br>
+<br>
 
 ## Neural Networks:
 
